@@ -1,0 +1,6 @@
+{
+  "name": "Whimsical Art Puzzle Toy",
+  "description": "A dreamy, interactive art puzzle toy featuring fluid spring animations, soft paper cutouts, cozy ambient sound synthesis, and infinite composition variations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
